@@ -4,7 +4,7 @@
   <remote name="coron"
            fetch=".." />
 
-  <default revision="refs/heads/coron-4.0"
+  <default revision="refs/heads/baidu-4.0"
            remote="coron"
            sync-j="4" />
 
