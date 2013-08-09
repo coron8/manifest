@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="origin"
+           fetch=".." />
+
+  <default revision="refs/heads/master"
+           remote="origin"
+           sync-j="4" />
+
+  <project path="manifest" name="coron8/manifest" />
+  <project path="build" name="coron8/build" />
+  <project path="tools" name="coron8/tools" />
+  <project path="devices/lt26i" name="devices/lt26i" />
+</manifest>
