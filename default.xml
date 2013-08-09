@@ -4,7 +4,7 @@
   <remote name="origin"
            fetch=".." />
 
-  <default revision="refs/heads/master"
+  <default revision="refs/heads/baidu-4.0"
            remote="origin"
            sync-j="4" />
 
