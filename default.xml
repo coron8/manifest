@@ -12,4 +12,5 @@
   <project path="build" name="coron8/build" />
   <project path="tools" name="coron8/tools" />
   <project path="devices/lt26i" name="coron8/devices/lt26i" />
+  <project path="baidu/overlay" name="coron8/res-overlay" />
 </manifest>
