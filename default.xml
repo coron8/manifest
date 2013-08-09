@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="coron"
+  <remote name="origin"
            fetch=".." />
 
   <default revision="refs/heads/baidu-4.0"
-           remote="coron"
+           remote="origin"
            sync-j="4" />
 
   <project path="manifest" name="coron8/manifest" />
